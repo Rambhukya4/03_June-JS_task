@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#countdown1{
+    border: 1px solid black;
+   width: 80px;
+   margin: auto;
+   background-color: aqua;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+}
